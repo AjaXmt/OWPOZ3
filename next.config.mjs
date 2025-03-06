@@ -21,7 +21,7 @@ const nextConfig = {
     parallelServerBuildTraces: true,
     parallelServerCompiles: true,
   },
-  basePath: '/page',
+  basePath: '/OWPOZ3',
 }
 
 mergeConfig(nextConfig, userConfig)
